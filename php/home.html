@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>HTML5 Navigation Bar Example - Example 1</title>
+    <link href="style2.css" rel="stylesheet"/>
+	
+	<!-- html5.js for IE less than 9 -->
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+	
+	<!-- css3-mediaqueries.js for IE less than 9 -->
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+</head>
+<body>
+
+<div id="pagewrap">
+
+	<header id="header">
+
+<nav>
+    <ul>
+        <li>
+            <a href="home.html">Home</a>
+     
+        </li>
+        <li>
+            <a href="blog.html">Historicos</a>
+      
+        </li>
+        <li>
+            <a href="shop.html">Cadastrar controlhes remotos</a>
+    
+        </li>
+     
+    </ul>
+</nav>
+</header>
+
+<aside id="sidebar">
+<center>
+
+<h1>controle</h1>
+<p>Qual o aparelho deseja </p>
+<form method="POST" action="arduino.php">
+  <input list="browsers" name="browser">
+  <datalist id="browsers">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+  <p>qual a funcao que dejeta</p>
+    <input list="browsers2" name="estado">
+  <datalist id="browsers2">
+    <option value="a">
+    <option value="A">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+  <br>
+  <br>
+  <button onclick="myFunction()">Enviar </button>
+  
+  
+ <input type="submit">
+ 
+</center>
+</aside>
+
+
+<section>
+
+<div id="content">
+<article>
+<center>
+<header>
+<h2>Bloqueio de funcao</h2>
+
+</header>
+<p>Qual o aparelho deseja bloquear</p>
+<form action="action_page.php">
+  <input list="browsers" name="browser">
+  <datalist id="browsers">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+  <p>qual a funcao que dejeta bloquear</p>
+    <input list="browsers2" name="browser2">
+  <datalist id="browsers2">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+  
+  <p>horario de bloqueio</p>
+  <p>ex: de 23:00 ate 06:30</p>
+<input id="exit-time" name="exit-time" type="time">
+
+<input id="exit-time" name="exit-time" type="time">
+  
+  
+
+</form>
+
+<br><br>
+	  <button onclick="myFunction()">Enviar bloqueio</button>
+	  </center>
+</article>
+
+<article>
+<center>
+<header>
+<h2>Progamar funcao</h2>
+</header>
+<p>Qual o aparelho deseja progamar</p>
+<form action="action_page.php">
+  <input list="browsers" name="browser">
+  <datalist id="browsers">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+  <p>qual a funcao que dejeta progamar</p>
+    <input list="browsers2" name="browser2">
+  <datalist id="browsers2">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+  <p>qual dia mes ano e hora que deseja executar funcao</p>
+<input id="arrival-time" name="arrival-time " type="datetime-local">
+
+<br>
+<br>
+
+
+
+
+<button onclick="myFunction()">Progamar</button>
+</center>
+</article>
+
+</div>
+</section>
+
+
+<footer>
+ <p>controlhe de bloqueio e progamacao</p>
+ 
+</footer>
+<script>
+var int valor;
+
+function myFunction() {
+    
+	
+	
+
+}
+
+
+</script>
+
+
+</div>
+</body>
+</html>
