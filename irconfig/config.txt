@@ -1,0 +1,5 @@
+servidor:localhost
+porta:3000
+usuario:root
+senhaservidor:32412308
+nomeDb:ircontrol
