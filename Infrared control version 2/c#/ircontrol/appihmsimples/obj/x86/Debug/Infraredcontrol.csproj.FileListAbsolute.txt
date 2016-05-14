@@ -1,0 +1,13 @@
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.pdb
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\Infraredcontrol.csprojResolveAssemblyReference.cache
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Form1.resources
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Properties.Resources.resources
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\Infraredcontrol.csproj.GenerateResource.Cache
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.pdb

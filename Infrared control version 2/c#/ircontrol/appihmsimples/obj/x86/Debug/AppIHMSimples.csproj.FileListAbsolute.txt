@@ -1,0 +1,56 @@
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\bin\Debug\AppIHMSimples.exe
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\bin\Debug\AppIHMSimples.pdb
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Form1.resources
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe
+C:\Documents and Settings\Usuario\Configurações locais\Dados de aplicativos\Temporary Projects\AppIHMSimples\obj\x86\Debug\AppIHMSimples.pdb
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.pdb
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\bin\Debug\AppIHMSimples.exe
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\bin\Debug\AppIHMSimples.pdb
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Form1.resources
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Properties.Resources.resources
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Usuario\Meus documentos\Visual Studio 2010\Projects\AppIHMSimples\AppIHMSimples\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.pdb
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Debug\AppIHMSimples.exe
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Debug\AppIHMSimples.pdb
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Form1.resources
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Properties.Resources.resources
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.csproj.GenerateResource.Cache
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Debug\AppIHMSimples.exe.manifest
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Debug\AppIHMSimples.application
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe.manifest
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.application
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Debug\AppIHMSimples.csprojResolveAssemblyReference.cache
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.csprojResolveAssemblyReference.cache
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Form1.resources
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Properties.Resources.resources
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.csproj.GenerateResource.Cache
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.pdb
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.pdb
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\bin\Debug\AppIHMSimples.pdb
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.csprojResolveAssemblyReference.cache
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Form1.resources
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.Properties.Resources.resources
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.csproj.GenerateResource.Cache
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Debug\AppIHMSimples.pdb

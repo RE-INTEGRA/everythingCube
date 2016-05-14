@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Infrared control - cadastrar usuario</title>
+    <link href="style2.css" rel="stylesheet"/>
+	<meta name="viewport" content="width=device-width, initial-scale=0.7" />
+	
+	<!-- html5.js for IE less than 9 -->
+<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+<!-- css3-mediaqueries.js for IE less than 9 -->
+<!--[if lt IE 9]>
+	<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+	<link rel="icon" href="favicon.ico" type="/">	
+</head>
+<body>
+
+
+<nav>
+    <ul>
+        <li>
+            <a href="index.html">Login</a>
+     
+        </li>
+        <li>
+            <a href="logincadastro.html">Cadastro</a>
+      
+        </li>
+        <li>
+            <a href="comprar.html">Comprar</a>
+    
+        </li>
+     		  <li>
+            <a href="sobre.html">Contato</a>
+    
+        </li>
+    </ul>
+</nav>
+<div id="form-main">
+  <div id="form-div">
+    <form class="form" id="form1">
+      
+      <h1>Cadastro</h1>
+	  
+	  <form action="action_page.php">
+
+
+
+</form>
+
+
+
+
+
+<form method="POST" action="cadastraruser.php" autocomplete = "off">
+<h2>Nome de usuario</h2>
+	  
+	  <p class="name">
+        <input name="nUser" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="digite um nome" id="nUser" />
+      </p>
+      <h2>Senha</h2>
+      <p class="name">
+        <input name="nSenha" type="password" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="digite uma senha" id="nSenha" />
+      </p>
+	  <h2>Email</h2>
+	  
+	  <p class="name">
+        <input name="nemail" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="digite um email valido" id="nemail" />
+      </p>
+	
+
+
+      
+      
+	    <button onclick="myFunction()">Cadastrar</button>
+      
+      
+    </form>
+	
+	
+	
+  </div>
+  
+  
+
+  
+  
+</body>
+</html>

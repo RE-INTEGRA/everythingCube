@@ -1,0 +1,26 @@
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Release\AppIHMSimples.exe.manifest
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Release\AppIHMSimples.application
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Release\AppIHMSimples.exe
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\bin\Release\AppIHMSimples.pdb
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Release\AppIHMSimples.Form1.resources
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Release\AppIHMSimples.Properties.Resources.resources
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Release\AppIHMSimples.csproj.GenerateResource.Cache
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Release\AppIHMSimples.exe.manifest
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Release\AppIHMSimples.application
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Release\AppIHMSimples.exe
+C:\Users\Iucas\Desktop\Nova pasta (2)\AppIHMSimples\AppIHMSimples\obj\x86\Release\AppIHMSimples.pdb
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.csprojResolveAssemblyReference.cache
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.Form1.resources
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.Properties.Resources.resources
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.csproj.GenerateResource.Cache
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Release\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Release\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Release\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\bin\Release\AppIHMSimples.pdb
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.exe.manifest
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.application
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\INFRARED\C#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.pdb
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.exe
+C:\Users\lcassss\Dropbox\infrared2.0\c#\ircontrol\AppIHMSimples\obj\x86\Release\AppIHMSimples.pdb
