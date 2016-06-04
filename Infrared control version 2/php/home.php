@@ -82,13 +82,14 @@ include 'test.php';
 
 
 
-<center>
+<center>  
+
 <aside id="sidebar">
 
-
+<form method="POST" action="fazer.php" autocomplete = "off">
 <h1>Controle</h1>
 <p>Qual o aparelho desejado </p>
-<form method="POST" action="fazer.php" autocomplete = "off">
+
   <input list="browserss" name="aparelho">
   <datalist id="aparelho">
  <?php 
@@ -131,12 +132,13 @@ echo "<option value='$t[funcao]'>";
 <article>
 
 <header>
+<form method="POST" action="bloq.php" autocomplete = "off">
 <h2>Bloqueio de função</h2>
 
 </header>
 <p>Qual aparelho deseja bloquear</p>
 
-<form method="POST" action="bloq.php" autocomplete = "off">
+
 
 
 
@@ -191,10 +193,12 @@ echo "<option value='$t[funcao]'>";
 <article>
 <center>
 
-<h2>Progamar função</h2>
 </header>
-<p>Qual o aparelho deseja progamar</p>
 <form method="POST" action="confusao.php" autocomplete = "off">
+<h2>Progamar função</h2>
+
+<p>Qual o aparelho deseja progamar</p>
+
   <input list="browserss" name="browserss">
   <datalist id="browserss">
  <?php 

@@ -42,21 +42,19 @@ $row1 = mysql_fetch_array($recebido1);
 
 $nada1 =  $row1 [0];
 
+if($nada1 > 0 && $nada>0){
+	
+	$query5 = "INSERT INTO bloqueio (codigo,horarioDebloqueioInicial,horarioDebloqueioFinal, funcaoAodetectarBloqueio,user ) VALUES ('$nada','$inicio','$final','$nada1','$user')" ;
+$insert = mysql_query($query5,$connect);
 
-$query5 = "INSERT INTO bloqueio (codigo,horarioDebloqueioInicial,horarioDebloqueioFinal, funcaoAodetectarBloqueio,user ) VALUES ('$nada','$inicio','$final','$nada1','$user')" ;
-$insert = mysql_query($query5,$connect);	
-
-if($insert){
-					
-
- 
- echo"<script language='javascript' type='text/javascript'>alert('bloqueio configurado');window.location.href='home.php'</script>";
 }else{
 echo"<script language='javascript' type='text/javascript'>alert('a funcao escolhida nao é do respectivo aparelho');window.location.href='home.php'</script>";
 }
-				
 
-
+if($insert){
+					
+echo"<script language='javascript' type='text/javascript'>alert('bloqueio configurado');window.location.href='home.php'</script>";
+}
 mysql_close($connect);
 
 

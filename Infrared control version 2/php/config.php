@@ -37,26 +37,26 @@ $row3 = mysql_fetch_array($recebido3);
 
 $nada1 =  $row3 [0];
 
-$query5 = "SELECT `cadastro`.`idcadastro` FROM `$nomedb`.`cadastro` WHERE user= '$user' ;";
+$query5 = "SELECT `cadastro`.`idcadastro` FROM `$nomedb`.`cadastro` WHERE user= '$user' AND idcadastro='$id3' ;";
 $recebido4 = mysql_query($query5,$connect);
 $row4 = mysql_fetch_array($recebido4);
 
 $nada2 =  $row4 [0];
 
 
-$query6 = "SELECT `bloqueio`.`idbloqueio` FROM `$nomedb`.`bloqueio` WHERE user= '$user' ;";
+$query6 = "SELECT `bloqueio`.`idbloqueio` FROM `$nomedb`.`bloqueio` WHERE user= '$user' AND idbloqueio ='$id3' ;";
 $recebido5 = mysql_query($query6,$connect);
 $row5 = mysql_fetch_array($recebido5);
 
 $nada3 =  $row5 [0];
 
-$query7 = "SELECT `funcoescontroladas`.`idfuncoescontroladas` FROM `$nomedb`.`funcoescontroladas` WHERE user= '$user' ;";
+$query7 = "SELECT `funcoescontroladas`.`idfuncoescontroladas` FROM `$nomedb`.`funcoescontroladas` WHERE user= '$user' AND idfuncoescontroladas='$id3'  ;";
 $recebido6 = mysql_query($query7,$connect);
 $row6 = mysql_fetch_array($recebido6);
 
 $nada4 =  $row6 [0];
 
-$query8 = "SELECT `historico`.`idhistorico` FROM `$nomedb`.`historico` WHERE user= '$user' ;";
+$query8 = "SELECT `historico`.`idhistorico` FROM `$nomedb`.`historico` WHERE user= '$user' AND idhistorico='$id3' ;";
 $recebido7 = mysql_query($query8,$connect);
 $row7 = mysql_fetch_array($recebido7);
 
@@ -83,8 +83,6 @@ $insert = mysql_query($query3,$connect);
 
 }
 	
-}else{
-echo"<script language='javascript' type='text/javascript'>alert('id nao encontrado');window.location.href='adm.php'</script>";	
 }
 
 if($nada3 == $id3 or $id3 == "tudo"){
@@ -106,8 +104,6 @@ $insert = mysql_query($query1,$connect);
 
 
 	
-}else{
-echo"<script language='javascript' type='text/javascript'>alert('id nao encontrado');window.location.href='adm.php'</script>";	
 }
 
 
@@ -127,8 +123,6 @@ $insert = mysql_query($query2,$connect);
 
 }
 	
-}else{
-echo"<script language='javascript' type='text/javascript'>alert('id nao encontrado');window.location.href='adm.php'</script>";	
 }
 
 if($nada5 == $id3 or $id3 == "tudo"){
@@ -148,8 +142,6 @@ $insert = mysql_query($query4,$connect);
 	}
 }
 	
-}else{
-echo"<script language='javascript' type='text/javascript'>alert('id nao encontrado');window.location.href='adm.php'</script>";	
 }
 
 
